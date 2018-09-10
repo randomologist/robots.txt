@@ -39,7 +39,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
+![alt text](images/robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
 
 
 
@@ -77,7 +77,7 @@ Majority of content will be delivered through video instruction. This allows you
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
-![alt text](../images/collusion.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Daniel Bentley")
+![alt text](images/collusion.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Daniel Bentley")
 
 #### Cheating & Academic Dishonesty
 
