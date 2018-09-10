@@ -38,7 +38,7 @@ Not all classes are available every year. The courses taught are based on the in
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -60,7 +60,7 @@ Specific homework is rarely given. As such, students are expected to be producti
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -82,7 +82,7 @@ Please consider bringing some form of supplies for general class use, such as:
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -96,7 +96,7 @@ When turning in work, use font in a responsible readable manner; around sizes 10
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -110,7 +110,7 @@ This is aligned and modeled from industry and is aligned with IB Design expectat
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -136,7 +136,7 @@ If there is a question regarding grades in any of your classes, please speak to 
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -152,7 +152,7 @@ Many students are under the belief that if it is for education, copyright and in
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
   
 
@@ -166,6 +166,6 @@ Research, as well as personal experience, shows that students tend to understand
 
   
 
-![alt text](checky.png"Yes") I understand 
+![alt text](checky.png "Yes")) I understand 
 
  
