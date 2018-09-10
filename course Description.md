@@ -1,18 +1,20 @@
-###### Course: §126.33
+###### Course: §126.40
 
-## Web Design
+## Robotics Programming and Design 
 
-TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Computer Science.
+TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Robotics Programming & Design.
 
-Our Web Design course is designed to be an introduction into the fundamentals of the origins of Web Design and where it is today. Web Design offers students a more gentle introduction into a skillset including professional software and coding. Students will work with three different computer languages in Web Design; HTML, CSS, and JavaScript. It would be great to include more, as this alone isn't enough in the industry today, but it's better to understand the basics well, than to go through everything quickly and not be able to use any of it. No background in specialized software is required.
+Robotics Programming and Design will foster students' creativity and innovation by presenting opportunities to design, implement, and present meaningful robotic programs through a variety of media. Students will collaborate with one another, their instructor, and various electronic communities to solve problems in designing and programming robots. Through data analysis, students will identify task requirements, plan search strategies, and use robotic concepts to access, analyze, and evaluate information needed to solve problems. By using robotic knowledge and skills that support the work of individuals and groups in solving problems, students will select the technology appropriate for the task, synthesize knowledge, create solutions, and evaluate the results. Students will learn digital citizenship by researching current laws and regulations and by practicing integrity and respect. Students will gain an understanding of the principles of robotics through the study of physics, robotics, automation, and engineering design concepts.
 
-Web Design is an intermediate-level course, not introductory level. Prior to taking Web Design, it is recommended for students to complete Fundamentals of CS or Digital Communications. Students may also consider taking Digital Art to increase general knowledge of graphic software.
-
-![alt text](../images/webdesign.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+Before taking this course, it is recommended to have previous experience in technology; preferably Computer Science or Fundamentals of Computer Science; or to a lesser extent, at least Digital Communications.
  
-#### Course Summary
+#### Overview
 
-Web Design is a more gentle introduction into creating products directly with code, but that doesn't mean the course won't be challenging. While the web is overall still a pretty young field of study, due to the wide range of variables impacting the field, there has been significant change in the field over the past 25 years. The content is not technically difficult, but it does require thinking and solving problems in a way different from majority of the American education system. The 'best' way to do things in the past, is not the 'best' way now; the 'best' way now is not future-proof.
+The course will focus on two main areas. In the fall semester, prototyping a task-oriented robot for reliability and consistancy, and designing and programming a novel in the spring semester. Throughout the year, the course will require students to collaborate, plan, and document their group's and robot's progress and development. Texas considers this a fourth year course. 
+
+The course does not require previous experience, but it certainly helps. Students without prior experience will likely need to expect a large amount of work to be completed throughout the duration of the course. Prior courses that help prepare students for Robotics are Intro to Robotics & Intro to CS at 8th grade, and Fundamentals and other Computer Science courses in high school. Other tech courses, including Digital Communications, Web Design, and Digital Art can also help prepare students to a lesser extent.
+ 
+We will work with the NXT robots, utilizing the LeJOS firmware and library. Our primary IDE will be IntelliJ IDEA from JetBrains. Through this course, you will gain experience in both programming with Java and in small-scale engineering.
 
 #### As an IB Continuum School
 
@@ -37,41 +39,45 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
+![alt text](../images/robotics-banner.jpg "CC 2.0: Generic | Cropped from Original  | Lejos")
 
-#### Web Design Course Content
+
+
+#### Robotics Course Content
  
-The content in this course will build on itself. If you don't intend to remember the concepts and basic code throughout the year, you will struggle as future content will make use of previously used content to reinforce and increase the complexity of what you can create. If this is a field you are interested in, this is just a start into the study of it. You will need further study, but this is a good start and will give you a good foundation to build on.
+This course introduces programming robots with a professional level IDE using raw code in the Java language. It is beneficial if students come into the course with some pre-existing knowledge. If students are not already comfortable with computers, they may find this course difficult. It would be beneficial to do well in Digital Communications, Computer Science 1, Fundamentals of Computer Science, Intro to Computer Science, or Intro to Robotics before taking this course.
+
+Our Robotics Programming & Design course is designed to be an introduction into the ideas and fundamentals of robotics for students with limited background in programming and little or no background in robotics. Students are expected to have previous knowledge of computers in general, and should be able to utilize basic everyday software and operating systems. Throughout the course, students will have to work both individually and with different groups of their peers. Students who choose not to do one or the other will struggle to score acceptable marks. No background in specialized software is required.
+
+Our Robotics course spans across 2 semesters. The course is broken up into 2 massive units.
+
+**Fall Unit: Prototyping & Engineering**
+* What is a Robot?
+* How to Program a Robot
+* Sketching & Documentation
+* The Importance of Reliability
+* Proving and Defending
+
+**Spring Unit: Animatronics & Imitation**
+* Imitating Life
+* Integrating Tech into Life
+* Stimulus & Response
+* Analyzing Behavior
+* Artificial Intelligence
+
+Students often expect Robotics to be an easy course. Technically, it is not a hard course. However, students are often used to being told the answer, or able to just find the answer. Robotics is a course that requires students to design, document, and create their own answers, then defend those answers. Due to how limited this is in the American education system, it is not unusual for students to find the class difficult due to having to work and think in a way they are not used to. In addition, students will be accountable both as an individual and as a group member, which some students also struggle with.
  
-This course will require use of coding, Photoshop, and design principles. If you are interested in coding almost exclusively, you might consider taking Computer Science in addition to Web Design. If you are concerned about becoming familiar with design principles and/or Photoshop while learning to code, consider taking Digital Design and/or Digital Art while enrolled in, or prior to enrolling in, Web Design.
-
-Our Web Design course spans across 2 semesters. The course is broken up into 2 massive units.
-
-**Fall Unit: Brutalist Design**
-* Origins of the Web
-* Basic HTML
-* Designing for low-bandwidth
-* Basic PHP
-* Simulating 90's Tech Capabilities
-* Design Patterns of the 90s
-
-**Spring Unit: Modern Web Design**
-* CSS
-* Javascript
-* Modern Design Patterns 
-
-For the traditional American education system, this is an elective. An elective does not mean you get a free A. An elective actually means you don't have to pass. You can excel in, barely pass, or fail this class. Which ever result you choose to pursue will be on your transcript, will affect your GPA, and will be included in what is sent to colleges and universities.
- 
-To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
-
+Students will likely work within several different programming environments during the year, making use of both visual programming and hand coding. Due to the amount of time designing and engineering the robot itself, there will be significantly less coding in this course than in Computer Science and Web Design. If you are interested in programming, it is recommended that you consider enrolling in Computer Science instead of, or in addition to, Robotics.
+ 
 ##### A bit of reading material:
-- [Why all Graphic Design Students Should Learn Web Design](www.loudnoises.us/the-noise/why-all-graphic-design-students-should-learn-web-design-and-10-other-things-you-outta-know/)
+- [What We Can Learn from Robots](https://www.technologyreview.com/s/403545/what-we-can-learn-from-robots/)
  
 #### Style of Instruction:
 Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
-![alt text](../images/cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
+![alt text](../images/collusion.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Daniel Bentley")
 
 #### Cheating & Academic Dishonesty
 
@@ -82,9 +88,8 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Many students are under the belief that if it is for education, copyright and intellectual property laws don't apply. This is not the case. Many companies choose not to file charges when copyright or intellectual property laws are violated for educational use, but some companies do, and this doesn't mean they can't choose to at a later point in time. Use of other's works as your own, without proper documentation can result in loss of credit. However, use of copyrighted material can also result in legal issues in addition to any academic woes.
   
 ##### A bit of reading material:
--[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
-
--[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
+- [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
+- [10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
 
 ##### Collaboration vs Collusion:
 
@@ -93,9 +98,8 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Research, as well as personal experience, shows that students tend to understand content better when working with and discussing content with other students. Some assignments will actually require it. However, it is important that the aid and assistance you receive, or that you provide, is authorized. If you are physically touching another student's keyboard, mouse, or sending complete or partial chunks of code, you are likely engaging in collusion, not collaboration. If unsure, it's better to ask. Collusion is a form of academic dishonesty and can result in loss of credit for all parties involved.
   
 ##### A bit of reading material:
--[Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
-
--[Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
+- [Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
+- [Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
  
 #### CMS / LMS:
 We will use ManageBac.
